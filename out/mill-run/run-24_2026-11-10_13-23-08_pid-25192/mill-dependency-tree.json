@@ -1,0 +1,91 @@
+{
+  "Task.Anon@20478f39(mill.javalib.SemanticDbJavaModule#bspBuildTargetCompileSemanticDb)": {
+    "compiledClassesAndSemanticDbFiles": {
+      "semanticDbData": {
+        "semanticDbDataDetailed": {
+          "scalaVersion": {},
+          "allScalacOptions": {
+            "mandatoryScalacOptions": {},
+            "enablePluginScalacOptions": {},
+            "scalacOptions": {}
+          },
+          "semanticDbEnablePluginScalacOptions": {
+            "mill.javalib.CoursierConfigModule/coursierEnv": {},
+            "repositories": {},
+            "platformSuffix": {},
+            "checkGradleModules": {},
+            "semanticDbPluginMvnDeps": {
+              "semanticDbScalaVersion": {},
+              "semanticDbVersion": {}
+            }
+          },
+          "javacOptions": {},
+          "semanticDbJavaVersion": {},
+          "mill.javalib.JvmWorkerModule/internalWorker": {
+            "mill.javalib.JvmWorkerModule/repositories": {},
+            "mill.javalib.JvmWorkerModule/checkGradleModules": {},
+            "mill.javalib.JvmWorkerModule/classpath": {},
+            "mill.javalib.JvmWorkerModule/internalWorkerClassLoader": {},
+            "mill.javalib.JvmWorkerModule/zincLogDebug": {},
+            "mill.javalib.JvmWorkerModule/useFileLocks": {}
+          },
+          "allSourceFiles": {
+            "allSources": {
+              "sources": {},
+              "generatedSources": {}
+            },
+            "wrappedSources": {}
+          },
+          "resolvedMvnDeps": {
+            "resolvedMvnDeps.super.javalib.JavaModule": {
+              "resolvedDepsWarnNonPlatform": {},
+              "mvnDeps": {},
+              "mandatoryMvnDeps": {
+                "mandatoryMvnDeps.super.javalib.JavaModule": {}
+              },
+              "compileMvnDeps": {},
+              "runMvnDeps": {},
+              "allBomMvnDeps": {
+                "bomMvnDeps": {},
+                "mandatoryBomMvnDeps": {}
+              },
+              "depManagement": {},
+              "transitiveCoursierProjects": {},
+              "artifactTypes": {}
+            }
+          },
+          "localCompileClasspath": {
+            "unmanagedClasspath": {},
+            "unmanagedClasspathExistenceCheck": {},
+            "compileResources": {}
+          },
+          "resolvedSemanticDbJavaPluginMvnDeps": {
+            "semanticDbJavaPluginMvnDeps": {}
+          },
+          "scalaCompilerClasspath": {
+            "scalaLibraryMvnDeps": {}
+          },
+          "semanticDbPluginClasspath": {
+            "scalacPluginMvnDeps": {}
+          },
+          "scalaCompilerBridge": {},
+          "zincIncrementalCompilation": {},
+          "zincAuxiliaryClassFileExtensions": {
+            "zincAuxiliaryClassFileExtensions.super.javalib.JavaModule": {}
+          },
+          "javaHome": {
+            "jvmVersion": {
+              "jvmId": {}
+            },
+            "jvmIndexVersion": {}
+          },
+          "zincReportCachedProblems": {},
+          "mill.javalib.SemanticDbJavaModule/workerClasspath": {
+            "mill.javalib.SemanticDbJavaModule/repositories": {},
+            "mill.javalib.SemanticDbJavaModule/checkGradleModules": {}
+          }
+        }
+      }
+    }
+  }
+}
