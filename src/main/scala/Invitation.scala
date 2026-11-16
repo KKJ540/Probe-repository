@@ -1,6 +1,6 @@
 package Uebungen
 
-case class person[T](value: T)
+case class person[U](value: U)
 
 object Invitation {
   def main(args: Array[String]): Unit = {
